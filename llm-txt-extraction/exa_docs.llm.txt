@@ -1,0 +1,14 @@
+--- URL: https://docs.exa.ai/ ---
+Exa finds the exact content you’re looking for on the web, with three core functionalities: 
+ /SEARCH -&gt; 
+Find webpages using Exa’s embeddings-based or Google-style keyword search. 
+ /CONTENTS -&gt; 
+Obtain clean, up-to-date, parsed HTML from Exa search results. 
+ /FINDSIMILAR -&gt; 
+Based on a link, find and return pages that are similar in meaning. 
+ /ANSWER -&gt; 
+Get direct answers to questions using Exa’s Answer API. 
+ 
+ ​ Get Started 
+ API Playground Explore the API playground and try Exa API. QuickStart Use our SDKs to do your first Exa search. RAG with Exa Use our integrations to peform RAG with Exa. Examples Learn from our pre-built tutorials and live demos.
+
